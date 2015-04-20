@@ -2,8 +2,8 @@
 
 namespace Bleicker\Response\Http;
 
-use Bleicker\Response\ResponseInterface;
 use Bleicker\Response\MainResponseInterface;
+use Bleicker\Response\ResponseInterface;
 use Symfony\Component\HttpFoundation\Response as HttpResponse;
 
 /**
