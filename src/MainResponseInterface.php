@@ -9,4 +9,8 @@ namespace Bleicker\Response;
  */
 interface MainResponseInterface extends ResponseInterface {
 
+	/**
+	 * @return $this
+	 */
+	public function send();
 }
